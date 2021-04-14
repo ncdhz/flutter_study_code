@@ -93,3 +93,31 @@ Form 使用和 TextFormField 校验
 ### lib/main-demo23.dart
 
 对齐与相对定位
+
+### lib/main-demo24.dart
+
+Padding 使用
+
+### lib/main-demo25.dart
+
+尺寸限制类容器使用
+
+### lib/main-demo26.dart
+
+装饰器容器 DecoratedBox
+
+### lib/main-demo27.dart
+
+变换 Transform
+
+### lib/main-demo28.dart
+
+Container
+
+### lib/main-demo29.dart
+
+Scaffold、TabBar、底部导航
+
+### lib/main-demo30.dart
+
+剪裁 Clip
