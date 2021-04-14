@@ -8,10 +8,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Form Demo',
+      title: 'Progress Indicator Demo',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Form Demo'),
+          title: Text('Progress Indicator Demo'),
         ),
         body: ProgressIndicatorAnimationDemo(),
       ),
